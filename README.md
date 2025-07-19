@@ -183,7 +183,7 @@ Clerk handles all authentication with:
 
 ## 🎨 UI Showcase
 - 📱 Homepage with hero section
-image.png
+![Homepage](https://i.postimg.cc/Th8TfTgN/Screenshot-2025-07-19-224819.png)
 - ✍️ Journal writing interface
 image.png
 - 📊 Analytics dashboard
