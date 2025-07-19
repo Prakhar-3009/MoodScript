@@ -190,6 +190,4 @@ Clerk handles all authentication with:
 
 **Made with ❤️ for mindful journaling**
 
----
-
 
