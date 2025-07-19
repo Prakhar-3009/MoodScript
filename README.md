@@ -47,7 +47,7 @@ A beautiful, secure, and feature-rich digital journaling application that helps 
 [![Screenshot-2025-07-19-225110.png](https://i.postimg.cc/DZqr6MZg/Screenshot-2025-07-19-225110.png)](https://postimg.cc/5Y2QNp8Y)
 - 📊 Analytics dashboard
 [![Screenshot-2025-07-19-224941.png](https://i.postimg.cc/RCKspg82/Screenshot-2025-07-19-224941.png)](https://postimg.cc/RqCLNLvT)
-[Screenshot-2025-07-20-025448.png](https://postimg.cc/5jDBt6bz)
+[![Screenshot-2025-07-20-025448.png](https://i.postimg.cc/28S22Zt0/Screenshot-2025-07-20-025448.png)](https://postimg.cc/5jDBt6bz)
 
 
 ## 🛠️ Tech Stack
