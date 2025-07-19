@@ -39,6 +39,17 @@ A beautiful, secure, and feature-rich digital journaling application that helps 
 - **Toast Notifications** - Clear feedback for all user actions
 - **Form Validation** - Comprehensive error handling and validation
 
+
+## 🎨 UI Showcase
+- 📱 Homepage with hero section
+![Homepage Screenshot](https://i.postimg.cc/Th8TfTgN/Screenshot-2025-07-19-224819.png)
+- ✍️ Journal writing interface
+[![Screenshot-2025-07-19-225110.png](https://i.postimg.cc/DZqr6MZg/Screenshot-2025-07-19-225110.png)](https://postimg.cc/5Y2QNp8Y)
+- 📊 Analytics dashboard
+[![Screenshot-2025-07-19-224941.png](https://i.postimg.cc/RCKspg82/Screenshot-2025-07-19-224941.png)](https://postimg.cc/RqCLNLvT)
+[![Screenshot-2025-07-19-225002.png](https://i.postimg.cc/0QgGps8j/Screenshot-2025-07-19-225002.png)](https://postimg.cc/Ty9W6B5v)
+
+
 ## 🛠️ Tech Stack
 
 ### **Frontend**
@@ -181,12 +192,4 @@ Clerk handles all authentication with:
 
 ---
 
-## 🎨 UI Showcase
-- 📱 Homepage with hero section
-image.png
-- ✍️ Journal writing interface
-image.png
-- 📊 Analytics dashboard
-Screenshot 2025-07-19 224941.png
-Screenshot 2025-07-19 225002.png
 
